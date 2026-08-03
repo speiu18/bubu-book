@@ -6,6 +6,8 @@ Carte-cadou îngrijită după manuscrisul lui **Vasia Peiu**.
 
 **https://speiu18.github.io/bubu-book/**
 
+Publicat din ramura `gh-pages` (Deploy from a branch). Nu e nevoie de GitHub Actions.
+
 ## Deschide cartea local
 
 - **Versiune web:** deschide [`carte/index.html`](carte/index.html) în browser
