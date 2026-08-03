@@ -2,7 +2,19 @@
 
 Carte-cadou îngrijită după manuscrisul lui **Vasia Peiu**.
 
-## Deschide cartea
+## Site (GitHub Pages — gratuit)
+
+URL după activare: **https://speiu18.github.io/Hello-world/**
+
+Conținutul site-ului este pe ramura `gh-pages`. Activează hostingul o singură dată:
+
+1. Deschide [Settings → Pages](https://github.com/speiu18/Hello-world/settings/pages)
+2. La **Deploy from a branch**, alege branch **`gh-pages`**, folder **`/` (root)**
+3. Salvează — în ~1 minut site-ul e live
+
+Alternativ: la **Source** alege **GitHub Actions** (workflow-ul din `.github/workflows/deploy-pages.yml`).
+
+## Deschide cartea local
 
 - **Versiune web:** deschide [`carte/index.html`](carte/index.html) în browser
 - **PDF tipărit:** [`carte/Consemnarile-mele.pdf`](carte/Consemnarile-mele.pdf) (format A5)
